@@ -6,7 +6,7 @@ plugins/RobotechCCG/defaultchat.txt	https://raw.githubusercontent.com/wishmstr/R
 plugins/RobotechCCG/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/sets/carddata.txt	1892444
 plugins/RobotechCCG/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/sets/setimages/general/cardback.png	64659
 plugins/RobotechCCG/sets/setimages/general/spawned.png	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/sets/setimages/general/spawned.png	64659
-plugins/RobotechCCG/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/CardImageURLs1.txt	3205278
+plugins/RobotechCCG/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/CardImageURLs1.txt	3459546
 plugins/RobotechCCG/decks/Azonia's_Forces_Starter_Deck.dek	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/decks/Azonia's_Forces_Starter_Deck.dek	416059
 plugins/RobotechCCG/decks/Blue_Squadron_Starter_Deck.dek	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/decks/Blue_Squadron_Starter_Deck.dek	401823
 plugins/RobotechCCG/decks/Breetai's_Forces_Starter_Deck.dek	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/decks/Breetai's_Forces_Starter_Deck.dek	424416
