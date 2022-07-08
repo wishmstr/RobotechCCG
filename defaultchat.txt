@@ -1,0 +1,20 @@
+!Start Hand!/draw4
+.
+!Mulligan!/f5;/f5;/f5;/f5;/draw4
+.
+!BP +1!/player stat1 +1
+!BP -1!/player stat1  -1
+.
+Good Game
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.

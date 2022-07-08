@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>RobotechCCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="MS060DisableMecha.png">Disable Mecha</name><set>robotech</set></card>
+		<card><name id="MS060DisableMecha.png">Disable Mecha</name><set>robotech</set></card>
+		<card><name id="MS061EvasiveManeuver.png">Evasive Maneuver</name><set>robotech</set></card>
+		<card><name id="MS061EvasiveManeuver.png">Evasive Maneuver</name><set>robotech</set></card>
+		<card><name id="MS062FokkersFeint.png">Fokker&apos;s Feint</name><set>robotech</set></card>
+		<card><name id="MS062FokkersFeint.png">Fokker&apos;s Feint</name><set>robotech</set></card>
+		<card><name id="MS063InDisguise.png">In Disguise</name><set>robotech</set></card>
+		<card><name id="MS063InDisguise.png">In Disguise</name><set>robotech</set></card>
+		<card><name id="MS064Mutiny.png">Mutiny</name><set>robotech</set></card>
+		<card><name id="MS064Mutiny.png">Mutiny</name><set>robotech</set></card>
+		<card><name id="MS065Repair.png">Repair</name><set>robotech</set></card>
+		<card><name id="MS065Repair.png">Repair</name><set>robotech</set></card>
+		<card><name id="MS066ReturntoCarrierBay.png">Return to Carrier Bay</name><set>robotech</set></card>
+		<card><name id="MS066ReturntoCarrierBay.png">Return to Carrier Bay</name><set>robotech</set></card>
+		<card><name id="MS067WeddingBells.png">Wedding Bells</name><set>robotech</set></card>
+		<card><name id="MS068Bobby.png">Bobby</name><set>robotech</set></card>
+		<card><name id="MS069DanaSterling.png">Dana Sterling</name><set>robotech</set></card>
+		<card><name id="MS069DanaSterling.png">Dana Sterling</name><set>robotech</set></card>
+		<card><name id="MS070MaxSterlingCommander.png">Max Sterling - Commander</name><set>robotech</set></card>
+		<card><name id="MS070MaxSterlingCommander.png">Max Sterling - Commander</name><set>robotech</set></card>
+		<card><name id="MS071MiriyaMrsSterling.png">Miriya - Mrs. Sterling</name><set>robotech</set></card>
+		<card><name id="MS071MiriyaMrsSterling.png">Miriya - Mrs. Sterling</name><set>robotech</set></card>
+		<card><name id="MS072PilotBlueSquadron.png">Pilot - Blue Squadron</name><set>robotech</set></card>
+		<card><name id="MS072PilotBlueSquadron.png">Pilot - Blue Squadron</name><set>robotech</set></card>
+		<card><name id="MS072PilotBlueSquadron.png">Pilot - Blue Squadron</name><set>robotech</set></card>
+		<card><name id="MS072PilotBlueSquadron.png">Pilot - Blue Squadron</name><set>robotech</set></card>
+		<card><name id="MS073ArmoredBattloidUpgrade.png">Armored Battloid - Upgrade</name><set>robotech</set></card>
+		<card><name id="MS073ArmoredBattloidUpgrade.png">Armored Battloid - Upgrade</name><set>robotech</set></card>
+		<card><name id="MS074VF1A.png">VF-1A</name><set>robotech</set></card>
+		<card><name id="MS074VF1A.png">VF-1A</name><set>robotech</set></card>
+		<card><name id="MS075VF1ACollateralDamage.png">VF-1A Collateral Damage</name><set>robotech</set></card>
+		<card><name id="MS075VF1ACollateralDamage.png">VF-1A Collateral Damage</name><set>robotech</set></card>
+		<card><name id="MS076VF1AImmobilize.png">VF-1A Immobilize</name><set>robotech</set></card>
+		<card><name id="MS076VF1AImmobilize.png">VF-1A Immobilize</name><set>robotech</set></card>
+		<card><name id="MS077VF1ARefuel.png">VF-1A Refuel</name><set>robotech</set></card>
+		<card><name id="MS077VF1ARefuel.png">VF-1A Refuel</name><set>robotech</set></card>
+		<card><name id="MS078VF1AUnlockable.png">VF-1A Unblockable</name><set>robotech</set></card>
+		<card><name id="MS078VF1AUnlockable.png">VF-1A Unblockable</name><set>robotech</set></card>
+		<card><name id="MS079VF1D.png">VF-1D</name><set>robotech</set></card>
+		<card><name id="MS079VF1D.png">VF-1D</name><set>robotech</set></card>
+		<card><name id="MS080VF1J.png">VF-1J</name><set>robotech</set></card>
+		<card><name id="MS080VF1J.png">VF-1J</name><set>robotech</set></card>
+		<card><name id="MS081VF1JBattloidIntercept.png">VF-1J Battloid Intercept</name><set>robotech</set></card>
+		<card><name id="MS081VF1JBattloidIntercept.png">VF-1J Battloid Intercept</name><set>robotech</set></card>
+		<card><name id="MS082VF1JBlitzkrieg.png">VF-1J Blitzkrieg</name><set>robotech</set></card>
+		<card><name id="MS082VF1JBlitzkrieg.png">VF-1J Blitzkrieg</name><set>robotech</set></card>
+		<card><name id="MS083VF1JMaxSterlingBooster.png">VF-1J Max Sterling Booster</name><set>robotech</set></card>
+		<card><name id="MS083VF1JMaxSterlingBooster.png">VF-1J Max Sterling Booster</name><set>robotech</set></card>
+		<card><name id="MS084VF1JMiriyaBooster.png">VF-1J Miriya Booster</name><set>robotech</set></card>
+		<card><name id="MS084VF1JMiriyaBooster.png">VF-1J Miriya Booster</name><set>robotech</set></card>
+	</superzone>
+</deck>

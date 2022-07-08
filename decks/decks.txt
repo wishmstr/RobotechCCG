@@ -1,0 +1,12 @@
+decks
+=====
+
+C:\Users\Wishmaster\Desktop\LackeyCCGWin\LackeyCCG\plugins\RobotechCCG\decks\Azonia's_Forces_Starter_Deck.dek
+C:\Users\Wishmaster\Desktop\LackeyCCGWin\LackeyCCG\plugins\RobotechCCG\decks\Blue_Squadron_Starter_Deck.dek
+C:\Users\Wishmaster\Desktop\LackeyCCGWin\LackeyCCG\plugins\RobotechCCG\decks\Breetai's_Forces_Starter_Deck.dek
+C:\Users\Wishmaster\Desktop\LackeyCCGWin\LackeyCCG\plugins\RobotechCCG\decks\decks.txt
+C:\Users\Wishmaster\Desktop\LackeyCCGWin\LackeyCCG\plugins\RobotechCCG\decks\Macross_Starter_Deck.dek
+C:\Users\Wishmaster\Desktop\LackeyCCGWin\LackeyCCG\plugins\RobotechCCG\decks\New_Generation_Starter_Deck.dek
+C:\Users\Wishmaster\Desktop\LackeyCCGWin\LackeyCCG\plugins\RobotechCCG\decks\Robotech_Masters_Starter_Deck.dek
+C:\Users\Wishmaster\Desktop\LackeyCCGWin\LackeyCCG\plugins\RobotechCCG\decks\SDF-1_Starter_Deck.dek
+

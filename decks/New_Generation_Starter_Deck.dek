@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>RobotechCCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="NG001NeutronSMissiles.png">Neutron S Missiles</name><set>robotech</set></card>
+		<card><name id="NG002TheftbyBalloon.png">Theft by Balloon</name><set>robotech</set></card>
+		<card><name id="NG003AnnieLaBelle.png">Annie LaBelle</name><set>robotech</set></card>
+		<card><name id="NG004LancerLieutenant.png">Lancer - Lieutenant</name><set>robotech</set></card>
+		<card><name id="NG005Lunk.png">Lunk</name><set>robotech</set></card>
+		<card><name id="NG006Rand.png">Rand</name><set>robotech</set></card>
+		<card><name id="NG007Rook.png">Rook</name><set>robotech</set></card>
+		<card><name id="NG008ScottBernardLtCmdr.png">Scott Bernart - Lt Cmdr</name><set>robotech</set></card>
+		<card><name id="NG009SynchroCannon.png">Synchro Cannon</name><set>robotech</set></card>
+		<card><name id="NG010CycloneVR038L.png">Cyclone VR-038L</name><set>robotech</set></card>
+		<card><name id="NG010CycloneVR038L.png">Cyclone VR-038L</name><set>robotech</set></card>
+		<card><name id="NG011CycloneVR041H.png">Cyclone VR-041H</name><set>robotech</set></card>
+		<card><name id="NG012AlphaVFA6H.png">Alpha VFA-6H</name><set>robotech</set></card>
+		<card><name id="NG013AlphaVFA6HScott.png">Alpha VFA-6H (Scott)</name><set>robotech</set></card>
+		<card><name id="NG014AlphaVFA6I.png">Alpha VFA-6I</name><set>robotech</set></card>
+		<card><name id="NG015AlphaVFA6ILancer.png">Alpha VFA-6I (Lancer)</name><set>robotech</set></card>
+		<card><name id="NG016AlphaVFA6Z.png">Alpha VFA-6Z</name><set>robotech</set></card>
+		<card><name id="NG016AlphaVFA6Z.png">Alpha VFA-6Z</name><set>robotech</set></card>
+		<card><name id="NG017AlphaVFA6ZRook.png">Alpha VFA-6Z (Rook)</name><set>robotech</set></card>
+		<card><name id="NG018BetaVFB9.png">Beta VFB-9</name><set>robotech</set></card>
+		<card><name id="NG019ShadowDrone.png">Shadow Drone</name><set>robotech</set></card>
+		<card><name id="NG020ShadowFighter.png">Shadow Fighter</name><set>robotech</set></card>
+		<card><name id="NG021GarfishclassCruiser.png">Garfish-class Cruiser</name><set>robotech</set></card>
+		<card><name id="NG022HorizonTclassCombatDropship.png">Horizon-T class Combat Dropship</name><set>robotech</set></card>
+		<card><name id="NG023SDF4.png">SDF-4</name><set>robotech</set></card>
+		<card><name id="NG024EnemyOccupation.png">Enemy Occupation</name><set>robotech</set></card>
+		<card><name id="NG025Metamorphosis.png">Metamorphosis</name><set>robotech</set></card>
+		<card><name id="NG026SymphonyofLight.png">Symphony of Light</name><set>robotech</set></card>
+		<card><name id="NG027Transmutation.png">Transmutation</name><set>robotech</set></card>
+		<card><name id="NG028Ariel.png">Ariel</name><set>robotech</set></card>
+		<card><name id="NG029Corg.png">Corg</name><set>robotech</set></card>
+		<card><name id="NG030InvidPilot.png">Invid Pilot</name><set>robotech</set></card>
+		<card><name id="NG031Sera.png">Sera</name><set>robotech</set></card>
+		<card><name id="NG032TheRegess.png">The Regess</name><set>robotech</set></card>
+		<card><name id="NG033InvidHive.png">Invid Hive</name><set>robotech</set></card>
+		<card><name id="NG034ReflexPoint.png">Reflex Point</name><set>robotech</set></card>
+		<card><name id="NG035Enforcer.png">Enforcer</name><set>robotech</set></card>
+		<card><name id="NG036EnforcerLeader.png">Enforcer - Leader</name><set>robotech</set></card>
+		<card><name id="NG037InvidCommander.png">Invid Commander</name><set>robotech</set></card>
+		<card><name id="NG038InvidCommanderCorg.png">Invid Commander - Corg</name><set>robotech</set></card>
+		<card><name id="NG039InvidCommanderSera.png">Invid Commander - Sera</name><set>robotech</set></card>
+		<card><name id="NG040Scout.png">Scout</name><set>robotech</set></card>
+		<card><name id="NG041ScoutFighter.png">Scout - Fighter</name><set>robotech</set></card>
+		<card><name id="NG041ScoutFighter.png">Scout - Fighter</name><set>robotech</set></card>
+		<card><name id="NG042ScoutInterceptor.png">Scout - Interceptor</name><set>robotech</set></card>
+		<card><name id="NG043Shocktrooper.png">Shocktrooper</name><set>robotech</set></card>
+		<card><name id="NG044Soldier.png">Soldier</name><set>robotech</set></card>
+		<card><name id="NG044Soldier.png">Soldier</name><set>robotech</set></card>
+		<card><name id="NG045Trooper.png">Trooper</name><set>robotech</set></card>
+		<card><name id="NG046InvidCarrier.png">Invid Carrier</name><set>robotech</set></card>
+	</superzone>
+</deck>

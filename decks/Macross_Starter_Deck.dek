@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>RobotechCCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="MS001Transform.png">Transform</name><set>robotech</set></card>
+		<card><name id="MS001Transform.png">Transform</name><set>robotech</set></card>
+		<card><name id="MS002AccuracyofFire.png">Accuracy of Fire</name><set>robotech</set></card>
+		<card><name id="MS003BenDixonCorporal.png">Ben Dixon - Corporal</name><set>robotech</set></card>
+		<card><name id="MS003BenDixonCorporal.png">Ben Dixon - Corporal</name><set>robotech</set></card>
+		<card><name id="MS004MaxSterlingCorporal.png">Max Sterling - Corporal</name><set>robotech</set></card>
+		<card><name id="MS004MaxSterlingCorporal.png">Max Sterling - Corporal</name><set>robotech</set></card>
+		<card><name id="MS005RickHunterLieutenant.png">Rick Hunter - Lieutenant</name><set>robotech</set></card>
+		<card><name id="MS005RickHunterLieutenant.png">Rick Hunter - Lieutenant</name><set>robotech</set></card>
+		<card><name id="MS006CatsEyeRecon.png">Cat&apos;s Eye Recon</name><set>robotech</set></card>
+		<card><name id="MS007ArmoredBattloid.png">Armored Battloid</name><set>robotech</set></card>
+		<card><name id="MS008VF1ABenDixon.png">VF-1A Ben Dixon</name><set>robotech</set></card>
+		<card><name id="MS009VF1AIntercept.png">VF-1A (Intercept)</name><set>robotech</set></card>
+		<card><name id="MS009VF1AIntercept.png">VF-1A (Intercept)</name><set>robotech</set></card>
+		<card><name id="MS010VF1AMaxSterling.png">VF-1A Max Sterling</name><set>robotech</set></card>
+		<card><name id="MS011VF1AReturn.png">VF-1A (Return)</name><set>robotech</set></card>
+		<card><name id="MS012VF1DTrainer.png">VF-1D Trainer</name><set>robotech</set></card>
+		<card><name id="MS012VF1DTrainer.png">VF-1D Trainer</name><set>robotech</set></card>
+		<card><name id="MS012VF1DTrainer.png">VF-1D Trainer</name><set>robotech</set></card>
+		<card><name id="MS013VF1JAttack.png">VF-1J (Attack)</name><set>robotech</set></card>
+		<card><name id="MS014VF1JIntercept.png">VF-1J (Intercept)</name><set>robotech</set></card>
+		<card><name id="MS015VF1JRecover.png">VF-1J (Recover)</name><set>robotech</set></card>
+		<card><name id="MS016VF1JRickHunter.png">VF-1J Rick Hunter</name><set>robotech</set></card>
+		<card><name id="MS017VF1JSpeed.png">VF-1J (Speed)</name><set>robotech</set></card>
+		<card><name id="MS018VF1SIntercept.png">VF-1S (Intercept)</name><set>robotech</set></card>
+		<card><name id="MS019MassiveBarrage.png">Massive Barrage</name><set>robotech</set></card>
+		<card><name id="MS019MassiveBarrage.png">Massive Barrage</name><set>robotech</set></card>
+		<card><name id="MS020Gerao.png">Gerao</name><set>robotech</set></card>
+		<card><name id="MS021Grel.png">Grel</name><set>robotech</set></card>
+		<card><name id="MS022Khyron.png">Khyron</name><set>robotech</set></card>
+		<card><name id="MS023ZentraediPilot.png">Zentraedi Pilot</name><set>robotech</set></card>
+		<card><name id="MS024ZentraediWarrior.png">Zentraedi Warrior</name><set>robotech</set></card>
+		<card><name id="MS025PoweredArmorMale.png">Powered Armor - Male</name><set>robotech</set></card>
+		<card><name id="MS026BattlepodCannonFodder.png">Battlepod - Cannon Fodder</name><set>robotech</set></card>
+		<card><name id="MS026BattlepodCannonFodder.png">Battlepod - Cannon Fodder</name><set>robotech</set></card>
+		<card><name id="MS027BattlepodExpendable.png">Battlepod - Expendable</name><set>robotech</set></card>
+		<card><name id="MS027BattlepodExpendable.png">Battlepod - Expendable</name><set>robotech</set></card>
+		<card><name id="MS028BattlepodGroup.png">Battlepod - Group</name><set>robotech</set></card>
+		<card><name id="MS029BattlepodHeavyArtillery.png">Battlepod - Heavy Artillery</name><set>robotech</set></card>
+		<card><name id="MS029BattlepodHeavyArtillery.png">Battlepod - Heavy Artillery</name><set>robotech</set></card>
+		<card><name id="MS030BattlepodLightArtillery.png">Battlepod - Light Artillery</name><set>robotech</set></card>
+		<card><name id="MS030BattlepodLightArtillery.png">Battlepod - Light Artillery</name><set>robotech</set></card>
+		<card><name id="MS031BattlepodSwarm.png">Battlepod - Swarm</name><set>robotech</set></card>
+		<card><name id="MS031BattlepodSwarm.png">Battlepod - Swarm</name><set>robotech</set></card>
+		<card><name id="MS031BattlepodSwarm.png">Battlepod - Swarm</name><set>robotech</set></card>
+		<card><name id="MS031BattlepodSwarm.png">Battlepod - Swarm</name><set>robotech</set></card>
+		<card><name id="MS032FighterPod.png">Fighter Pod</name><set>robotech</set></card>
+		<card><name id="MS032FighterPod.png">Fighter Pod</name><set>robotech</set></card>
+		<card><name id="MS033OfficersBattlepod.png">Officer&apos;s Battlepod</name><set>robotech</set></card>
+		<card><name id="MS034ReconBattlepod.png">Recon Battlepod</name><set>robotech</set></card>
+	</superzone>
+</deck>

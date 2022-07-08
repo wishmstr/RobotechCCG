@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>RobotechCCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="MS114DaedelusAttack.png">Daedelus Attack</name><set>robotech</set></card>
+		<card><name id="MS115Homecoming.png">Homecoming</name><set>robotech</set></card>
+		<card><name id="MS116IWantYou.png">I Want You</name><set>robotech</set></card>
+		<card><name id="MS117MinmeiSings.png">Minmei Sings</name><set>robotech</set></card>
+		<card><name id="MS118OmniDirectionalBarrierOverload.png">Omni Directional Barrier Overload</name><set>robotech</set></card>
+		<card><name id="MS119OmniDirectionalBarrierSystem.png">Omni Directional Barrier System</name><set>robotech</set></card>
+		<card><name id="MS120RickHunterSpaceWalk.png">Rick Hunter Space Walk</name><set>robotech</set></card>
+		<card><name id="MS121SDF1SpaceFold.png">SDF-1 Space Fold</name><set>robotech</set></card>
+		<card><name id="MS122AdmiralHAyes.png">Admiral Hayes</name><set>robotech</set></card>
+		<card><name id="MS123ClaudiaGrant.png">Claudia Grant</name><set>robotech</set></card>
+		<card><name id="MS124EmilLang.png">Emil Lang</name><set>robotech</set></card>
+		<card><name id="MS125HenryGlovalCaptain.png">Henry Gloval - Captain</name><set>robotech</set></card>
+		<card><name id="MS126KimYoung.png">Kim Young</name><set>robotech</set></card>
+		<card><name id="MS127LisaHayes.png">Lisa Hayes</name><set>robotech</set></card>
+		<card><name id="MS128Minmei.png">Minmei</name><set>robotech</set></card>
+		<card><name id="MS129PilotSkullSquadron.png">Pilot - Skull Squadron</name><set>robotech</set></card>
+		<card><name id="MS130RickHunterCorporal.png">Rick Hunter - Corporal</name><set>robotech</set></card>
+		<card><name id="MS131RoyFokkerLtCmdr.png">Roy Fokker - Lt. Cmdr.</name><set>robotech</set></card>
+		<card><name id="MS132SammiePorter.png">Sammie Porter</name><set>robotech</set></card>
+		<card><name id="MS133VanessaLeeds.png">Vanessa Leeds</name><set>robotech</set></card>
+		<card><name id="MS134AlaskaBase.png">Alaska Base</name><set>robotech</set></card>
+		<card><name id="MS135MacrossIsland.png">Macross Island</name><set>robotech</set></card>
+		<card><name id="MS136DestructoidDefender.png">Destroid Defender</name><set>robotech</set></card>
+		<card><name id="MS137DestroidMonster.png">Destroid Monster</name><set>robotech</set></card>
+		<card><name id="MS138DestroidMonsterVessel.png">Destroid Monster - Vessel</name><set>robotech</set></card>
+		<card><name id="MS139DestroidPhalanx.png">Destroid Phalanx</name><set>robotech</set></card>
+		<card><name id="MS140DestroidPhalanxVessel.png">Destroid Phalanx - Vessel</name><set>robotech</set></card>
+		<card><name id="MS141DestroidSpartanArmor.png">Destroid Spartan - Armor</name><set>robotech</set></card>
+		<card><name id="MS142DestroidSpartan.png">Destroid Spartan</name><set>robotech</set></card>
+		<card><name id="MS143DestroidTomahawk.png">Destroid Tomahawk</name><set>robotech</set></card>
+		<card><name id="MS144GhostFighter.png">Ghost Fighter</name><set>robotech</set></card>
+		<card><name id="MS144GhostFighter.png">Ghost Fighter</name><set>robotech</set></card>
+		<card><name id="MS146LancerSpaceDrone.png">Lancer Space Drone</name><set>robotech</set></card>
+		<card><name id="MS146LancerSpaceDrone.png">Lancer Space Drone</name><set>robotech</set></card>
+		<card><name id="MS145LancerSpaceDroneVessel.png">Lancer Space Drone - Vessel</name><set>robotech</set></card>
+		<card><name id="MS147VF1AAmmoShortage.png">VF-1A Ammo Shortage</name><set>robotech</set></card>
+		<card><name id="MS147VF1AAmmoShortage.png">VF-1A Ammo Shortage</name><set>robotech</set></card>
+		<card><name id="MS148VF1DRescuer.png">VF-1D Rescuer</name><set>robotech</set></card>
+		<card><name id="MS148VF1DRescuer.png">VF-1D Rescuer</name><set>robotech</set></card>
+		<card><name id="MS149VF1DTandem.png">VF-1D Tandem</name><set>robotech</set></card>
+		<card><name id="MS150VF1JGuardianTransformer.png">VF-1J Guardian Transformer</name><set>robotech</set></card>
+		<card><name id="MS150VF1JGuardianTransformer.png">VF-1J Guardian Transformer</name><set>robotech</set></card>
+		<card><name id="MS151VF1S.png">VF-1S</name><set>robotech</set></card>
+		<card><name id="MS152VF1SSkullLeader.png">VF-1S Skull Leader</name><set>robotech</set></card>
+		<card><name id="MS153VF1SSkullLeaderBooster.png">VF-1S Skull Leader Booster</name><set>robotech</set></card>
+		<card><name id="MS153VF1SSkullLeaderBooster.png">VF-1S Skull Leader Booster</name><set>robotech</set></card>
+		<card><name id="MS154ARMD1.png">ARMD - 1</name><set>robotech</set></card>
+		<card><name id="MS155OberthclassDestroyer.png">Oberth-class Destroyer</name><set>robotech</set></card>
+		<card><name id="MS156SDF1Barrier.png">SDF-1 Barrier</name><set>robotech</set></card>
+		<card><name id="MS157SDF1MainCannon.png">SDF-1 Main Cannon</name><set>robotech</set></card>
+	</superzone>
+</deck>

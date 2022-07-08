@@ -1,0 +1,18 @@
+RobotechCCG	07-08-22
+plugins/RobotechCCG/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/plugininfo.txt	238856
+plugins/RobotechCCG/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/pluginpreferences.txt	296689
+plugins/RobotechCCG/RobotechCCG_Rules.pdf	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/RobotechCCG_Rules.pdf	-400347
+plugins/RobotechCCG/defaultchat.txt	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/defaultchat.txt	8894
+plugins/RobotechCCG/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/sets/carddata.txt	1892444
+plugins/RobotechCCG/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/sets/setimages/general/cardback.png	64659
+plugins/RobotechCCG/sets/setimages/general/spawned.png	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/sets/setimages/general/spawned.png	64659
+plugins/RobotechCCG/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/CardImageURLs1.txt	3205278
+plugins/RobotechCCG/decks/Azonia's_Forces_Starter_Deck.dek	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/decks/Azonia's_Forces_Starter_Deck.dek	416059
+plugins/RobotechCCG/decks/Blue_Squadron_Starter_Deck.dek	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/decks/Blue_Squadron_Starter_Deck.dek	401823
+plugins/RobotechCCG/decks/Breetai's_Forces_Starter_Deck.dek	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/decks/Breetai's_Forces_Starter_Deck.dek	424416
+plugins/RobotechCCG/decks/Macross_Starter_Deck.dek	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/decks/Macross_Starter_Deck.dek	413768
+plugins/RobotechCCG/decks/New_Generation_Starter_Deck.dek	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/decks/New_Generation_Starter_Deck.dek	380825
+plugins/RobotechCCG/decks/Robotech_Masters_Starter_Deck.dek	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/decks/Robotech_Masters_Starter_Deck.dek	473841
+plugins/RobotechCCG/decks/SDF-1_Starter_Deck.dek	https://raw.githubusercontent.com/wishmstr/RobotechCCG/main/decks/SDF-1_Starter_Deck.dek	416726
+CardURLFiles:
+CardImageURLs1.txt

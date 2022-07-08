@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>RobotechCCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="MS035FuelLeak.png">Fuel Leak</name><set>robotech</set></card>
+		<card><name id="MS035FuelLeak.png">Fuel Leak</name><set>robotech</set></card>
+		<card><name id="MS036Showdown.png">Showdown</name><set>robotech</set></card>
+		<card><name id="MS037SpaceFold.png">Space Fold</name><set>robotech</set></card>
+		<card><name id="MS037SpaceFold.png">Space Fold</name><set>robotech</set></card>
+		<card><name id="MS038Azonia.png">Azonia</name><set>robotech</set></card>
+		<card><name id="MS038Azonia.png">Azonia</name><set>robotech</set></card>
+		<card><name id="MS039FemaleZentraediOfficer.png">Female Zentraedi Officer</name><set>robotech</set></card>
+		<card><name id="MS039FemaleZentraediOfficer.png">Female Zentraedi Officer</name><set>robotech</set></card>
+		<card><name id="MS039FemaleZentraediOfficer.png">Female Zentraedi Officer</name><set>robotech</set></card>
+		<card><name id="MS040FemaleZentraediPilot.png">Female Zentraedi Pilot</name><set>robotech</set></card>
+		<card><name id="MS040FemaleZentraediPilot.png">Female Zentraedi Pilot</name><set>robotech</set></card>
+		<card><name id="MS040FemaleZentraediPilot.png">Female Zentraedi Pilot</name><set>robotech</set></card>
+		<card><name id="MS041FemaleZentraediWarrior.png">Female Zentraedi Warrior</name><set>robotech</set></card>
+		<card><name id="MS041FemaleZentraediWarrior.png">Female Zentraedi Warrior</name><set>robotech</set></card>
+		<card><name id="MS041FemaleZentraediWarrior.png">Female Zentraedi Warrior</name><set>robotech</set></card>
+		<card><name id="MS042Miriya.png">Miriya</name><set>robotech</set></card>
+		<card><name id="MS042Miriya.png">Miriya</name><set>robotech</set></card>
+		<card><name id="MS043Quadrano.png">Quadrano</name><set>robotech</set></card>
+		<card><name id="MS043Quadrano.png">Quadrano</name><set>robotech</set></card>
+		<card><name id="MS044QuadranoAce.png">Quadrano - Ace</name><set>robotech</set></card>
+		<card><name id="MS044QuadranoAce.png">Quadrano - Ace</name><set>robotech</set></card>
+		<card><name id="MS045QuadranoBasher.png">Quadrano - Basher</name><set>robotech</set></card>
+		<card><name id="MS045QuadranoBasher.png">Quadrano - Basher</name><set>robotech</set></card>
+		<card><name id="MS046QuadranoBlitz.png">Quadrano - Blitz</name><set>robotech</set></card>
+		<card><name id="MS046QuadranoBlitz.png">Quadrano - Blitz</name><set>robotech</set></card>
+		<card><name id="MS046QuadranoBlitz.png">Quadrano - Blitz</name><set>robotech</set></card>
+		<card><name id="MS047QuadranoBurn.png">Quadrano - Burn</name><set>robotech</set></card>
+		<card><name id="MS047QuadranoBurn.png">Quadrano - Burn</name><set>robotech</set></card>
+		<card><name id="MS048QuadranoCounterStrike.png">Quadrano - Counter Strike</name><set>robotech</set></card>
+		<card><name id="MS048QuadranoCounterStrike.png">Quadrano - Counter Strike</name><set>robotech</set></card>
+		<card><name id="MS049QuadranoFirstStrike.png">Quadrano - First Strike</name><set>robotech</set></card>
+		<card><name id="MS049QuadranoFirstStrike.png">Quadrano - First Strike</name><set>robotech</set></card>
+		<card><name id="MS050QuadranoKamikaze.png">Quadrano - Kamikaze</name><set>robotech</set></card>
+		<card><name id="MS050QuadranoKamikaze.png">Quadrano - Kamikaze</name><set>robotech</set></card>
+		<card><name id="MS051QuadranoMiriya.png">Quadrano - Miriya</name><set>robotech</set></card>
+		<card><name id="MS051QuadranoMiriya.png">Quadrano - Miriya</name><set>robotech</set></card>
+		<card><name id="MS052QuadranoOverkill.png">Quadrano - Overkill</name><set>robotech</set></card>
+		<card><name id="MS052QuadranoOverkill.png">Quadrano - Overkill</name><set>robotech</set></card>
+		<card><name id="MS053QuadranoRecall.png">Quadrano - Recall</name><set>robotech</set></card>
+		<card><name id="MS053QuadranoRecall.png">Quadrano - Recall</name><set>robotech</set></card>
+		<card><name id="MS054QuadranoSmasher.png">Quadrano - Smasher</name><set>robotech</set></card>
+		<card><name id="MS054QuadranoSmasher.png">Quadrano - Smasher</name><set>robotech</set></card>
+		<card><name id="MS055QuadranoThrasher.png">Quadrano - Thrasher</name><set>robotech</set></card>
+		<card><name id="MS055QuadranoThrasher.png">Quadrano - Thrasher</name><set>robotech</set></card>
+		<card><name id="MS056QuadranoVX.png">Quadrano - VX</name><set>robotech</set></card>
+		<card><name id="MS056QuadranoVX.png">Quadrano - VX</name><set>robotech</set></card>
+		<card><name id="MS057CommandShipAzonia.png">Command Ship - Azonia</name><set>robotech</set></card>
+		<card><name id="MS058DestroyerResupply.png">Destroyer - Resupply</name><set>robotech</set></card>
+		<card><name id="MS059DestroyerSupport.png">Destroyer - Support</name><set>robotech</set></card>
+	</superzone>
+</deck>

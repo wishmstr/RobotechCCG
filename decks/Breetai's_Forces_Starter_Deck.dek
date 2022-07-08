@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>RobotechCCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="MS085EscapeCapsule.png">Escape Capsule</name><set>robotech</set></card>
+		<card><name id="MS085EscapeCapsule.png">Escape Capsule</name><set>robotech</set></card>
+		<card><name id="MS086Infiltrate.png">Infiltrate</name><set>robotech</set></card>
+		<card><name id="MS086Infiltrate.png">Infiltrate</name><set>robotech</set></card>
+		<card><name id="MS087ManualOverideBeam.png">Manual Overide Beam</name><set>robotech</set></card>
+		<card><name id="MS088MassiveBombardment.png">Massive Bombardment</name><set>robotech</set></card>
+		<card><name id="MS089Breetai.png">Breetai</name><set>robotech</set></card>
+		<card><name id="MS089Breetai.png">Breetai</name><set>robotech</set></card>
+		<card><name id="MS090Bron.png">Bron</name><set>robotech</set></card>
+		<card><name id="MS090Bron.png">Bron</name><set>robotech</set></card>
+		<card><name id="MS091Exedore.png">Exedore</name><set>robotech</set></card>
+		<card><name id="MS091Exedore.png">Exedore</name><set>robotech</set></card>
+		<card><name id="MS092Khonda.png">Khonda</name><set>robotech</set></card>
+		<card><name id="MS092Khonda.png">Khonda</name><set>robotech</set></card>
+		<card><name id="MS093Rico.png">Rico</name><set>robotech</set></card>
+		<card><name id="MS093Rico.png">Rico</name><set>robotech</set></card>
+		<card><name id="MS094ZentraediGuard.png">Zentraedi Guard</name><set>robotech</set></card>
+		<card><name id="MS094ZentraediGuard.png">Zentraedi Guard</name><set>robotech</set></card>
+		<card><name id="MS095Battlepod5DP.png">Battlepod</name><set>robotech</set></card>
+		<card><name id="MS095Battlepod5DP.png">Battlepod</name><set>robotech</set></card>
+		<card><name id="MS096Battlepod7DP.png">Battlepod - 7DP</name><set>robotech</set></card>
+		<card><name id="MS096Battlepod7DP.png">Battlepod - 7DP</name><set>robotech</set></card>
+		<card><name id="MS097Battlepod9DP.png">Battlepod - 9DP</name><set>robotech</set></card>
+		<card><name id="MS097Battlepod9DP.png">Battlepod - 9DP</name><set>robotech</set></card>
+		<card><name id="MS098BattlepodBlockable.png">Battlepod - Blockable</name><set>robotech</set></card>
+		<card><name id="MS098BattlepodBlockable.png">Battlepod - Blockable</name><set>robotech</set></card>
+		<card><name id="MS099BattlepodDestructible.png">Battlepod - Destructible</name><set>robotech</set></card>
+		<card><name id="MS099BattlepodDestructible.png">Battlepod - Destructible</name><set>robotech</set></card>
+		<card><name id="MS100FighterPodBlockable.png">Fighter Pod - Blockable</name><set>robotech</set></card>
+		<card><name id="MS100FighterPodBlockable.png">Fighter Pod - Blockable</name><set>robotech</set></card>
+		<card><name id="MS101FighterPodDestruction.png">Fighter Pod - Destruction</name><set>robotech</set></card>
+		<card><name id="MS101FighterPodDestruction.png">Fighter Pod - Destruction</name><set>robotech</set></card>
+		<card><name id="MS102HeavyArtilleryDestructive.png">Heavy Artillery - Destructive</name><set>robotech</set></card>
+		<card><name id="MS102HeavyArtilleryDestructive.png">Heavy Artillery - Destructive</name><set>robotech</set></card>
+		<card><name id="MS103LightArtilleryCounterStrike.png">Light Artillery - Counter Strike</name><set>robotech</set></card>
+		<card><name id="MS103LightArtilleryCounterStrike.png">Light Artillery - Counter Strike</name><set>robotech</set></card>
+		<card><name id="MS104OfficersBattlepodDestruction.png">Officer&apos;s Battlepod - Destruction</name><set>robotech</set></card>
+		<card><name id="MS104OfficersBattlepodDestruction.png">Officer&apos;s Battlepod - Destruction</name><set>robotech</set></card>
+		<card><name id="MS105OfficersBattlepodDestroyer.png">Officer&apos;s Battlepod - Destroyer</name><set>robotech</set></card>
+		<card><name id="MS105OfficersBattlepodDestroyer.png">Officer&apos;s Battlepod - Destroyer</name><set>robotech</set></card>
+		<card><name id="MS106PoweredArmorMaleCannon.png">Powered Armor - Male (Cannon)</name><set>robotech</set></card>
+		<card><name id="MS106PoweredArmorMaleCannon.png">Powered Armor - Male (Cannon)</name><set>robotech</set></card>
+		<card><name id="MS107PoweredArmorMaleDefender.png">Powered Armor - Male (Defender)</name><set>robotech</set></card>
+		<card><name id="MS107PoweredArmorMaleDefender.png">Powered Armor - Male (Defender)</name><set>robotech</set></card>
+		<card><name id="MS108Carrier.png">Carrier</name><set>robotech</set></card>
+		<card><name id="MS109Destroyer.png">Destroyer</name><set>robotech</set></card>
+		<card><name id="MS110FlagshipBreetai.png">Flagship - Breetai</name><set>robotech</set></card>
+		<card><name id="MS111ReconPod.png">Recon Pod</name><set>robotech</set></card>
+		<card><name id="MS112ReEntryPod.png">Re-Entry Pod</name><set>robotech</set></card>
+		<card><name id="MS113Scoutship.png">Scoutship</name><set>robotech</set></card>
+	</superzone>
+</deck>

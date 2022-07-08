@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>RobotechCCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="RM001Clothesline.png">Clothesline</name><set>robotech</set></card>
+		<card><name id="RM002AngeleoDanteSergeant.png">Angelo Dante - Sergeant</name><set>robotech</set></card>
+		<card><name id="RM003BowieGrantPrivate.png">Bowie Grant - Private</name><set>robotech</set></card>
+		<card><name id="RM004DanaSterlingLieutenant.png">Dana Sterling - Lieutenant</name><set>robotech</set></card>
+		<card><name id="RM005LouieNicholsCorporal.png">Louie Nichols - Corporal</name><set>robotech</set></card>
+		<card><name id="RM006MarieCrystalLieutenant.png">Marie Crystal - Lieutenant</name><set>robotech</set></card>
+		<card><name id="RM007NovaSatoriLieutenant.png">Nova Satori - Lieutenant</name><set>robotech</set></card>
+		<card><name id="RM008RolfEmersonGeneral.png">Rolf Emerson - General</name><set>robotech</set></card>
+		<card><name id="RM009SeanPhillipsPrivate.png">Sean Phillips - Private</name><set>robotech</set></card>
+		<card><name id="RM010MonumentCity.png">Monument City</name><set>robotech</set></card>
+		<card><name id="RM011ChimeraFighter.png">Chimera Fighter</name><set>robotech</set></card>
+		<card><name id="RM012SylphidInterceptor.png">Sylphid Interceptor</name><set>robotech</set></card>
+		<card><name id="RM013GMPRobot.png">GMP Robot</name><set>robotech</set></card>
+		<card><name id="RM014VeritechAGAC.png">Veritech AGAC</name><set>robotech</set></card>
+		<card><name id="RM015VeritechAGACMarieCrystal.png">Veritech AGAC - Marie Crystal</name><set>robotech</set></card>
+		<card><name id="RM016VeritechLogan.png">Veritech Logan</name><set>robotech</set></card>
+		<card><name id="RM017VeritechLoganMarieCrystal.png">Veritech Logan - Marie Crystal</name><set>robotech</set></card>
+		<card><name id="RM018VeritechHovertank.png">Veritech Hovertank</name><set>robotech</set></card>
+		<card><name id="RM019VeritechHovertankBowieGrant.png">Veritech Hovertank - Bowie Grant</name><set>robotech</set></card>
+		<card><name id="RM020VeritechHovertankDanaSterling.png">Veritech Hovertank - Dana Sterling</name><set>robotech</set></card>
+		<card><name id="RM021VeritechHovertankSeanPhillips.png">Veritech Hovertank - Sean Phillips</name><set>robotech</set></card>
+		<card><name id="RM022VeritechHovertankAngeloDante.png">Veritech Hovertank - Angelo Dante</name><set>robotech</set></card>
+		<card><name id="RM023VeritechHovertankLouieNichols.png">Veritech Hovertank - Louie Nichols</name><set>robotech</set></card>
+		<card><name id="RM024TokugawaclassBattleship.png">Tokugawa-class Battleship</name><set>robotech</set></card>
+		<card><name id="RM025TristarclassLargeCruiser.png">Tristar-class Large Cruiser</name><set>robotech</set></card>
+		<card><name id="RM026Allegra.png">Allegra</name><set>robotech</set></card>
+		<card><name id="RM027Musica.png">Musica</name><set>robotech</set></card>
+		<card><name id="RM028Octavia.png">Octavia</name><set>robotech</set></card>
+		<card><name id="RM029RobotechMastersCloneSoldiers.png">Robotech Masters Clone Soldiers</name><set>robotech</set></card>
+		<card><name id="RM030RobotechMastersElders.png">Robotech Masters Elders</name><set>robotech</set></card>
+		<card><name id="RM031ZorPrime.png">Zor-Prime</name><set>robotech</set></card>
+		<card><name id="RM032ProtocultureMatrix.png">Protoculture Matrix</name><set>robotech</set></card>
+		<card><name id="RM033BioroidArmoredFighter.png">Bioroid Armored Fighter</name><set>robotech</set></card>
+		<card><name id="RM034BioroidArmoredFighterGroup.png">Bioroid Armored Fighter - Group</name><set>robotech</set></card>
+		<card><name id="RM035BioroidArmoredFighterRecurrence.png">Bioroid Armored Fighter - Recurrence</name><set>robotech</set></card>
+		<card><name id="RM036BioroidArmoredFighterTriumvirate.png">Bioroid Armored Fighter - Triumvirate</name><set>robotech</set></card>
+		<card><name id="RM037BioroidCommander.png">Bioroid Commander</name><set>robotech</set></card>
+		<card><name id="RM038BioroidCommanderRecurrence.png">Bioroid Commander - Recurrence</name><set>robotech</set></card>
+		<card><name id="RM039BioroidCommanderSacrifice.png">Bioroid Commander - Sacrifice</name><set>robotech</set></card>
+		<card><name id="RM040BioroidCommanderZorPrime.png">Bioroid Commander - Zor Prime</name><set>robotech</set></card>
+		<card><name id="RM041BioroidSoldier.png">Bioroid Soldier</name><set>robotech</set></card>
+		<card><name id="RM042BioroidSoldierTriumvirate.png">Bioroid Soldier - Triumvirate</name><set>robotech</set></card>
+		<card><name id="RM043BioroidSubcommander.png">Bioroid Subcommander</name><set>robotech</set></card>
+		<card><name id="RM044-BioroidSubcommanderExchange.png">Bioroid Subcommander - Exchange</name><set>robotech</set></card>
+		<card><name id="RM045BioroidSubcommanderRecurrence.png">Bioroid Subcommander - Recurrence</name><set>robotech</set></card>
+		<card><name id="RM046Triumvaroid.png">Triumvaroid</name><set>robotech</set></card>
+		<card><name id="RM046Triumvaroid.png">Triumvaroid</name><set>robotech</set></card>
+		<card><name id="RM047TirolianHeavyCruiser.png">Tirolian Heavy Cruiser</name><set>robotech</set></card>
+		<card><name id="RM048TirolianMothership.png">Tirolian Mothership</name><set>robotech</set></card>
+		<card><name id="RM049TirolianTransportAttacker.png">Tirolian Transport - Attacker</name><set>robotech</set></card>
+	</superzone>
+</deck>
